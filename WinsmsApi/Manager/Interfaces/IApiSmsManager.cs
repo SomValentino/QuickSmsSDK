@@ -13,8 +13,11 @@ namespace WinsmsApi.Manager.Interfaces
     public interface IApiSmsManager
     {
         IApiClient ApiClient { get;}
-        Task<ApiResponse<CreditBalanceResponse>> GetCreditBalance(string path);
-        Task<ApiResponse<SmsMessageResponse>> SendSms(SmsMessage message,string path);
-        Task<ApiResponse<MessageStatusResponse>> GetSmsStatus(List<int?> messageStatusRequest, string path);
+        ApiResponse<CreditBalanceResponse> GetCreditBalance(string path);
+        Task<ApiResponse<CreditBalanceResponse>> GetCreditBalanceAsync(string path);
+        ApiResponse<SmsMessageResponse> SendSms(SmsMessage message,string path);
+        Task<ApiResponse<SmsMessageResponse>> SendSmsAsync(SmsMessage message,string path);
+        ApiResponse<MessageStatusResponse> GetSmsStatus(List<int?> messageStatusRequest, string path);
+        Task<ApiResponse<MessageStatusResponse>> GetSmsStatusAsync(List<int?> messageStatusRequest, string path);
     }
 }

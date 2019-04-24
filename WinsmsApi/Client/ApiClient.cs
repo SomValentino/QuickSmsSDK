@@ -3,6 +3,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using RestSharp;
 using WinsmsApi.Client.Interfaces;
+using WinsmsApi.Exceptions;
 using WinsmsApi.Models.Response.Sms.Status;
 
 namespace WinsmsApi.Client
@@ -15,11 +16,16 @@ namespace WinsmsApi.Client
         private RestClient RestClient { get; }
 
         protected ApiClient(IConfiguration configuration, IClientDataConverter clientDataConverter,
-            IApiClientInterceptor requestBuilder)
+            IApiClientInterceptor clientInterceptor)
         {
-            _configurations = configuration;
-            _clientDataConverter = clientDataConverter;
-            _apiClientInterceptor = requestBuilder;
+            _configurations = configuration ??
+                              throw new ApiSmsConfigurationNotFoundException(
+                                  "The sms configuration is null. Cannot pass an empty configuration to the api client.");
+            _clientDataConverter = clientDataConverter ??
+                                   throw new ApiSmsClientDataConverterNotFoundException(
+                                       "The client data converter object cannot be null.");
+            _apiClientInterceptor = clientInterceptor ?? throw new ApiSmsClientInterceptorNotFoundException(
+                                        "The client interceptor object cannot be null.");
             RestClient = new RestClient(_configurations.baseUrlPath);
         }
 
@@ -37,8 +43,7 @@ namespace WinsmsApi.Client
             }
             catch (Exception e)
             {
-                Console.WriteLine(e);
-                throw;
+                throw new ApiSmsConnectionException(e.Message,e);
             }
         }
         
@@ -56,8 +61,7 @@ namespace WinsmsApi.Client
             }
             catch (Exception e)
             {
-                Console.WriteLine(e);
-                throw;
+                throw new ApiSmsConnectionException(e.Message,e);
             }
             
         }
