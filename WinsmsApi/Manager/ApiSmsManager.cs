@@ -18,7 +18,7 @@ namespace WinsmsApi.Manager
         {
             ApiClient = apiClient ?? throw new ApiClientNotFoundException("The api client object cannot null.");
         }
-        public IApiClient ApiClient { get; set; }
+        public IApiClient ApiClient { get; }
         public ApiResponse<CreditBalanceResponse> GetCreditBalance(string path)
         {
             var response = ApiClient.CallApi<CreditBalanceResponse, object>(path, Method.GET);
