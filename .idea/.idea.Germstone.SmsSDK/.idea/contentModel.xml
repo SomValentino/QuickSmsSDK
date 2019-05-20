@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Germstone.SmsSDK.-1710608737.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Germstone.SmsSDK.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WinsmsApi" t="IncludeRecursive">
+        <e p=".gitIgnore" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Client" t="Include">
+          <e p="ApiClient.cs" t="Include" />
+          <e p="ApiClientInterceptor.cs" t="Include" />
+          <e p="ApiConfiguration.cs" t="Include" />
+          <e p="ApiResponse.cs" t="Include" />
+          <e p="ClientDataConverter.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IApiClient.cs" t="Include" />
+            <e p="IApiClientInterceptor.cs" t="Include" />
+            <e p="IClientDataConverter.cs" t="Include" />
+            <e p="IConfiguration.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Exceptions" t="Include">
+          <e p="ApiClientNotFoundException.cs" t="Include" />
+          <e p="ApiSmsClientDataConverterNotFoundException.cs" t="Include" />
+          <e p="ApiSmsClientInterceptorNotFoundException.cs" t="Include" />
+          <e p="ApiSmsConfigurationNotFoundException.cs" t="Include" />
+          <e p="ApiSmsConnectionException.cs" t="Include" />
+        </e>
+        <e p="Manager" t="Include">
+          <e p="ApiSmsManager.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IApiSmsManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Models" t="Include">
+          <e p="Request" t="Include">
+            <e p="Sms" t="Include">
+              <e p="Send" t="Include">
+                <e p="MessageRecipient.cs" t="Include" />
+                <e p="SmsMessage.cs" t="Include" />
+              </e>
+              <e p="Status" t="Include">
+                <e p="MessageStatus.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Response" t="Include">
+            <e p="Credit" t="Include">
+              <e p="Balance" t="Include">
+                <e p="CreditBalanceResponse.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Sms" t="Include">
+              <e p="Send" t="Include">
+                <e p="MessageRecipientResponse.cs" t="Include" />
+                <e p="SmsMessageResponse.cs" t="Include" />
+              </e>
+              <e p="Status" t="Include">
+                <e p="MessageStatusResponse.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="WinsmsApi.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="WinsmsApi.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c09728c-315b-4441-85c2-732335e47f05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IApiClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IApiClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IApiClientInterceptor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IApiClientInterceptor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IClientDataConverter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IClientDataConverter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinsmsApi/Manager/ApiSmsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WinsmsApi/Manager/ApiSmsManager.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/ApiResponse.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+              <folding>
+                <marker date="1555947039906" expanded="true" signature="6:51" ph="..." />
+                <marker date="1555947039906" expanded="true" signature="79:501" ph="{...}" />
+                <marker date="1555947039906" expanded="true" signature="128:499" ph="{...}" />
+                <marker date="1555947039906" expanded="true" signature="232:345" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WinsmsApi/Manager/Interfaces/IApiSmsManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+              <folding>
+                <marker date="1556070265161" expanded="false" signature="6:340" ph="..." />
+                <marker date="1556070265161" expanded="true" signature="380:1018" ph="{...}" />
+                <marker date="1556070265161" expanded="true" signature="418:1016" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/ApiClient.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <marker date="1556072400942" expanded="false" signature="6:186" ph="..." />
+                <marker date="1556072400942" expanded="true" signature="214:4048" ph="{...}" />
+                <marker date="1556072400942" expanded="true" signature="256:4046" ph="{...}" />
+                <marker date="1556072400942" expanded="true" signature="658:1434" ph="{...}" />
+                <marker date="1556072400942" expanded="true" signature="1634:2317" ph="{...}" />
+                <marker date="1556072400942" expanded="true" signature="1660:2181" ph="{...}" />
+                <marker date="1556072400942" expanded="true" signature="2213:2307" ph="{...}" />
+                <marker date="1556072400942" expanded="true" signature="2540:3251" ph="{...}" />
+                <marker date="1556072400942" expanded="true" signature="2566:3102" ph="{...}" />
+                <marker date="1556072400942" expanded="true" signature="3134:3228" ph="{...}" />
+                <marker date="1556072400942" expanded="true" signature="3381:3502" ph="{...}" />
+                <marker date="1556072400942" expanded="true" signature="3656:4040" ph="{...}" />
+                <marker date="1556072400942" expanded="true" signature="3732:3825" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/ApiClientInterceptor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="733">
+              <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+              <folding>
+                <marker date="1555947167746" expanded="false" signature="6:70" ph="..." />
+                <marker date="1555947167746" expanded="true" signature="98:1705" ph="{...}" />
+                <marker date="1555947167746" expanded="true" signature="162:1703" ph="{...}" />
+                <marker date="1555947167746" expanded="true" signature="304:1486" ph="{...}" />
+                <marker date="1555947167746" expanded="true" signature="461:679" ph="{...}" />
+                <marker date="1555947167746" expanded="true" signature="550:665" ph="{...}" />
+                <marker date="1555947167746" expanded="true" signature="768:984" ph="{...}" />
+                <marker date="1555947167746" expanded="true" signature="853:970" ph="{...}" />
+                <marker date="1555947167746" expanded="true" signature="1069:1298" ph="{...}" />
+                <marker date="1555947167746" expanded="true" signature="1150:1284" ph="{...}" />
+                <marker date="1555947167746" expanded="true" signature="1333:1447" ph="{...}" />
+                <marker date="1555947167746" expanded="true" signature="1546:1579" ph="{...}" />
+                <marker date="1555947167746" expanded="true" signature="1664:1697" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/ClientDataConverter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <marker date="1555911900963" expanded="false" signature="6:74" ph="..." />
+                <marker date="1555911900963" expanded="true" signature="102:457" ph="{...}" />
+                <marker date="1555911900963" expanded="true" signature="164:455" ph="{...}" />
+                <marker date="1555911900963" expanded="true" signature="234:325" ph="{...}" />
+                <marker date="1555911900963" expanded="true" signature="372:449" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IApiClientInterceptor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding>
+                <marker date="1558386779636" expanded="true" signature="55:1333" ph="{...}" />
+                <marker date="1558386779636" expanded="true" signature="100:1331" ph="{...}" />
+                <marker date="1558386779636" expanded="true" signature="115:691" ph="///  ... " />
+                <marker date="1558386779636" expanded="true" signature="842:976" ph="///  ... " />
+                <marker date="1558386779636" expanded="true" signature="1038:1247" ph="///  ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IClientDataConverter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" column="55" lean-forward="true" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+              <folding>
+                <marker date="1558386779570" expanded="false" signature="6:30" ph="..." />
+                <marker date="1558386779570" expanded="true" signature="69:752" ph="{...}" />
+                <marker date="1558386779570" expanded="true" signature="113:750" ph="{...}" />
+                <marker date="1558386779570" expanded="true" signature="128:377" ph="///  ... " />
+                <marker date="1558386779570" expanded="true" signature="444:704" ph="///  ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WinsmsApi/Manager/ApiSmsManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <marker date="1558386779595" expanded="false" signature="6:378" ph="..." />
+                <marker date="1558386779595" expanded="true" signature="407:2332" ph="{...}" />
+                <marker date="1558386779595" expanded="true" signature="457:2330" ph="{...}" />
+                <marker date="1558386779595" expanded="true" signature="514:647" ph="{...}" />
+                <marker date="1558386779595" expanded="true" signature="772:916" ph="{...}" />
+                <marker date="1558386779595" expanded="true" signature="1014:1168" ph="{...}" />
+                <marker date="1558386779595" expanded="true" signature="1257:1412" ph="{...}" />
+                <marker date="1558386779595" expanded="true" signature="1517:1683" ph="{...}" />
+                <marker date="1558386779595" expanded="true" signature="1793:1980" ph="{...}" />
+                <marker date="1558386779595" expanded="true" signature="2106:2324" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IConfiguration.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <folding>
+                <marker date="1555910108555" expanded="true" signature="72:420" ph="{...}" />
+                <marker date="1555910108555" expanded="true" signature="110:418" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IApiClient.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+              <folding>
+                <marker date="1558386779592" expanded="false" signature="6:46" ph="..." />
+                <marker date="1558386779592" expanded="true" signature="85:1845" ph="{...}" />
+                <marker date="1558386779592" expanded="true" signature="119:1843" ph="{...}" />
+                <marker date="1558386779592" expanded="true" signature="134:782" ph="/// Synchronously call api to return an sms response from WinSms Api ... " />
+                <marker date="1558386779592" expanded="true" signature="984:1633" ph="/// Synchronously call api to return an sms response from WinSms Api ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Models/Request/Sms/Status/MessageStatus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Models/Response/Sms/Status/MessageStatusResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/.config/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Models/Response/Sms/Send/MessageRecipientResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Models/Response/Sms/Send/SmsMessageResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Manager/Interfaces/IApiSmsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Manager/ApiSmsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IApiClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Exceptions/ApiSmsConfigurationNotFoundException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Exceptions/ApiSmsClientDataConverterNotFoundException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Exceptions/ApiSmsClientInterceptorNotFoundException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Exceptions/ApiClientNotFoundException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Exceptions/ApiSmsConnectionException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Client/ApiClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Client/ApiConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IClientDataConverter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Client/ClientDataConverter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IApiClientInterceptor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Client/ApiClientInterceptor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Client/ApiResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Models/Response/Credit/Balance/CreditBalanceResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Models/Request/Sms/Send/SmsMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/Models/Request/Sms/Send/MessageRecipient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WinsmsApi/obj/Debug/netstandard2.0/WinsmsApi.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/.config/NuGet/NuGet.Config" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/Interfaces.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/IApiClient.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IConfiguration.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/Interfaces/ApiConfiguration.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/ApiConfiguration.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IClientDataProcessor.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/ClientDataConverter.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/Enums.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/CreditBalance.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Response/CreditBalanceResponse.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Request/MessageReceipent.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Request/MessageRecipient.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Request/SmsMessage.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Request/SmsSend/SmsMessage.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Request/SmsSend/MessageRecipient.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Request/SmsSend/Send/MessageRecipient.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Request/Sms/Send/SmsMessage.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Request/Sms/Status/MessageStatus.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Response/MessageStatusResponse.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Response/Sms/Status/MessageStatusResponse.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Request/Sms/Send/MessageRecipient.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Response/Sms/Send/MessageRecipientResponse.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Response/Sms/Send/SmsMessageResponse.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Enum/Enums.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Models/Response/Credit/Balance/CreditBalanceResponse.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/ApiResponse.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IRequestBuilder.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/RequestBuilder.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/.gitIgnore" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Manager/Interfaces/IApiSmsManager.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Exceptions/ApiSmsConfigurationNotFoundException.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Exceptions/ApiSmsClientDataConverterNotFoundException.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Exceptions/ApiSmsClientInterceptorNotFoundException.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Exceptions/ApiClientNotFoundException.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Exceptions/ApiSmsConnectionException.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/ApiClient.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Manager/ApiSmsManager.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IApiClient.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IApiClientInterceptor.cs" />
+        <option value="$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IClientDataConverter.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="952" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Client" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Client" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Interfaces" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Manager" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Manager" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Interfaces" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Request" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Request" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Sms" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Request" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Sms" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Send" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Request" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Sms" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Status" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Response" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Response" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Credit" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Response" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Credit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Balance" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Response" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Sms" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Response" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Sms" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Send" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Germstone.SmsSDK" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WinsmsApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Response" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Sms" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Status" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/winsms-csharp/winsms.sln" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c09728c-315b-4441-85c2-732335e47f05" name="Default Changelist" comment="" />
+      <created>1555869446470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555869446470</updated>
+      <workItem from="1555869447963" duration="22901000" />
+      <workItem from="1555949740236" duration="4854000" />
+      <workItem from="1558385167583" duration="1576000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit of nuget library">
+      <created>1555948962048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555948962048</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added exceptions and synchronous functions to api manager">
+      <created>1556073480759</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556073480759</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29331000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="952" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.33023256" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" visible="true" weight="0.32906976" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32967034" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit of nuget library" />
+    <MESSAGE value="Added exceptions and synchronous functions to api manager" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added exceptions and synchronous functions to api manager" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Class1.cs" />
+    <entry file="file://$USER_HOME$/.config/NuGet/NuGet.Config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="91" selection-start-line="3" selection-start-column="91" selection-end-line="3" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Models/Response/Sms/Status/MessageStatusResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <folding>
+            <marker date="1555924679904" expanded="true" signature="6:90" ph="..." />
+            <marker date="1555924679904" expanded="true" signature="179:390" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Models/Request/Sms/Status/MessageStatus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <marker date="1555923800561" expanded="true" signature="78:382" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Models/Request/Sms/Send/SmsMessage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1555922877570" expanded="true" signature="108:321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Models/Request/Sms/Send/MessageRecipient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+          <folding>
+            <marker date="1555925048267" expanded="true" signature="79:335" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Models/Response/Sms/Send/MessageRecipientResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <marker date="1555925222346" expanded="true" signature="88:490" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Models/Response/Sms/Send/SmsMessageResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1555925315375" expanded="true" signature="6:47" ph="..." />
+            <marker date="1555925315375" expanded="true" signature="131:348" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Enum/Enums.cs" />
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Models/Response/Credit/Balance/CreditBalanceResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1555946320231" expanded="true" signature="106:303" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/.gitIgnore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Exceptions/ApiSmsConfigurationNotFoundException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1556071030569" expanded="true" signature="45:378" ph="{...}" />
+            <marker date="1556071030569" expanded="true" signature="113:376" ph="{...}" />
+            <marker date="1556071030569" expanded="true" signature="203:223" ph="{...}" />
+            <marker date="1556071030569" expanded="true" signature="350:370" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Exceptions/ApiSmsClientDataConverterNotFoundException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1556071132845" expanded="true" signature="45:396" ph="{...}" />
+            <marker date="1556071132845" expanded="true" signature="119:394" ph="{...}" />
+            <marker date="1556071132845" expanded="true" signature="215:235" ph="{...}" />
+            <marker date="1556071132845" expanded="true" signature="368:388" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Exceptions/ApiSmsClientInterceptorNotFoundException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <marker date="1556071237498" expanded="true" signature="45:390" ph="{...}" />
+            <marker date="1556071237498" expanded="true" signature="117:388" ph="{...}" />
+            <marker date="1556071237498" expanded="true" signature="211:231" ph="{...}" />
+            <marker date="1556071237498" expanded="true" signature="362:382" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Exceptions/ApiSmsConnectionException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <marker date="1556071452698" expanded="true" signature="45:345" ph="{...}" />
+            <marker date="1556071452698" expanded="true" signature="102:343" ph="{...}" />
+            <marker date="1556071452698" expanded="true" signature="181:201" ph="{...}" />
+            <marker date="1556071452698" expanded="true" signature="317:337" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Exceptions/ApiClientNotFoundException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <marker date="1556071302387" expanded="true" signature="45:348" ph="{...}" />
+            <marker date="1556071302387" expanded="true" signature="103:346" ph="{...}" />
+            <marker date="1556071302387" expanded="true" signature="183:203" ph="{...}" />
+            <marker date="1556071302387" expanded="true" signature="320:340" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/ApiConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <marker date="1555910546407" expanded="false" signature="6:68" ph="..." />
+            <marker date="1555910546407" expanded="true" signature="96:734" ph="{...}" />
+            <marker date="1555910546407" expanded="true" signature="149:732" ph="{...}" />
+            <marker date="1555910546407" expanded="true" signature="235:268" ph="{...}" />
+            <marker date="1555910546407" expanded="true" signature="320:384" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/ClientDataConverter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1555911900963" expanded="false" signature="6:74" ph="..." />
+            <marker date="1555911900963" expanded="true" signature="102:457" ph="{...}" />
+            <marker date="1555911900963" expanded="true" signature="164:455" ph="{...}" />
+            <marker date="1555911900963" expanded="true" signature="234:325" ph="{...}" />
+            <marker date="1555911900963" expanded="true" signature="372:449" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/ApiResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding>
+            <marker date="1555947039906" expanded="true" signature="6:51" ph="..." />
+            <marker date="1555947039906" expanded="true" signature="79:501" ph="{...}" />
+            <marker date="1555947039906" expanded="true" signature="128:499" ph="{...}" />
+            <marker date="1555947039906" expanded="true" signature="232:345" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/ApiClientInterceptor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="733">
+          <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+          <folding>
+            <marker date="1555947167746" expanded="false" signature="6:70" ph="..." />
+            <marker date="1555947167746" expanded="true" signature="98:1705" ph="{...}" />
+            <marker date="1555947167746" expanded="true" signature="162:1703" ph="{...}" />
+            <marker date="1555947167746" expanded="true" signature="304:1486" ph="{...}" />
+            <marker date="1555947167746" expanded="true" signature="461:679" ph="{...}" />
+            <marker date="1555947167746" expanded="true" signature="550:665" ph="{...}" />
+            <marker date="1555947167746" expanded="true" signature="768:984" ph="{...}" />
+            <marker date="1555947167746" expanded="true" signature="853:970" ph="{...}" />
+            <marker date="1555947167746" expanded="true" signature="1069:1298" ph="{...}" />
+            <marker date="1555947167746" expanded="true" signature="1150:1284" ph="{...}" />
+            <marker date="1555947167746" expanded="true" signature="1333:1447" ph="{...}" />
+            <marker date="1555947167746" expanded="true" signature="1546:1579" ph="{...}" />
+            <marker date="1555947167746" expanded="true" signature="1664:1697" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Manager/ApiSmsManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <marker date="1558386779595" expanded="false" signature="6:378" ph="..." />
+            <marker date="1558386779595" expanded="true" signature="407:2332" ph="{...}" />
+            <marker date="1558386779595" expanded="true" signature="457:2330" ph="{...}" />
+            <marker date="1558386779595" expanded="true" signature="514:647" ph="{...}" />
+            <marker date="1558386779595" expanded="true" signature="772:916" ph="{...}" />
+            <marker date="1558386779595" expanded="true" signature="1014:1168" ph="{...}" />
+            <marker date="1558386779595" expanded="true" signature="1257:1412" ph="{...}" />
+            <marker date="1558386779595" expanded="true" signature="1517:1683" ph="{...}" />
+            <marker date="1558386779595" expanded="true" signature="1793:1980" ph="{...}" />
+            <marker date="1558386779595" expanded="true" signature="2106:2324" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IApiClientInterceptor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <marker date="1558386779636" expanded="true" signature="55:1333" ph="{...}" />
+            <marker date="1558386779636" expanded="true" signature="100:1331" ph="{...}" />
+            <marker date="1558386779636" expanded="true" signature="115:691" ph="///  ... " />
+            <marker date="1558386779636" expanded="true" signature="842:976" ph="///  ... " />
+            <marker date="1558386779636" expanded="true" signature="1038:1247" ph="///  ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IClientDataConverter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="55" lean-forward="true" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+          <folding>
+            <marker date="1558386779570" expanded="false" signature="6:30" ph="..." />
+            <marker date="1558386779570" expanded="true" signature="69:752" ph="{...}" />
+            <marker date="1558386779570" expanded="true" signature="113:750" ph="{...}" />
+            <marker date="1558386779570" expanded="true" signature="128:377" ph="///  ... " />
+            <marker date="1558386779570" expanded="true" signature="444:704" ph="///  ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding>
+            <marker date="1555910108555" expanded="true" signature="72:420" ph="{...}" />
+            <marker date="1555910108555" expanded="true" signature="110:418" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/ApiClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <marker date="1556072400942" expanded="false" signature="6:186" ph="..." />
+            <marker date="1556072400942" expanded="true" signature="214:4048" ph="{...}" />
+            <marker date="1556072400942" expanded="true" signature="256:4046" ph="{...}" />
+            <marker date="1556072400942" expanded="true" signature="658:1434" ph="{...}" />
+            <marker date="1556072400942" expanded="true" signature="1634:2317" ph="{...}" />
+            <marker date="1556072400942" expanded="true" signature="1660:2181" ph="{...}" />
+            <marker date="1556072400942" expanded="true" signature="2213:2307" ph="{...}" />
+            <marker date="1556072400942" expanded="true" signature="2540:3251" ph="{...}" />
+            <marker date="1556072400942" expanded="true" signature="2566:3102" ph="{...}" />
+            <marker date="1556072400942" expanded="true" signature="3134:3228" ph="{...}" />
+            <marker date="1556072400942" expanded="true" signature="3381:3502" ph="{...}" />
+            <marker date="1556072400942" expanded="true" signature="3656:4040" ph="{...}" />
+            <marker date="1556072400942" expanded="true" signature="3732:3825" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Manager/Interfaces/IApiSmsManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <marker date="1556070265161" expanded="false" signature="6:340" ph="..." />
+            <marker date="1556070265161" expanded="true" signature="380:1018" ph="{...}" />
+            <marker date="1556070265161" expanded="true" signature="418:1016" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WinsmsApi/Client/Interfaces/IApiClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <marker date="1558386779592" expanded="false" signature="6:46" ph="..." />
+            <marker date="1558386779592" expanded="true" signature="85:1845" ph="{...}" />
+            <marker date="1558386779592" expanded="true" signature="119:1843" ph="{...}" />
+            <marker date="1558386779592" expanded="true" signature="134:782" ph="/// Synchronously call api to return an sms response from WinSms Api ... " />
+            <marker date="1558386779592" expanded="true" signature="984:1633" ph="/// Synchronously call api to return an sms response from WinSms Api ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
